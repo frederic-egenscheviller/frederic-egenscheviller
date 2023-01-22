@@ -25,10 +25,11 @@
 
 
 <br>
-
-
+- Currently looking for an internship 🧑‍💻
 <br>
+- Continuation of study in an engineering school on a work-study basis for 2023/2024 👷
 <br>
+- Open to discussion for any questions 💬
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
