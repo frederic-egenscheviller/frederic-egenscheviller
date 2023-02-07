@@ -11,7 +11,7 @@
 <div align="center">
 
 <a href="https://github.com/frederic-egenscheviller/">
-  <img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=frederic-egenscheviller&theme=dark" alt="mystreak" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frederic-egenscheviller&theme=dark" alt="mystreak" width="450"/>
 </a>
 </div>
 
