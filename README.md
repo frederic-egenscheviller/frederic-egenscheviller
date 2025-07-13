@@ -14,39 +14,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=frederic-egenscheviller&theme=dark" alt="mystreak" width="450"/>
 </a>
 </div>
-
-<br>
-<br>
-<br>
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<br>
-- Open to discuss for any questions 💬
-<br><br>
-- French student 🇫🇷
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/frederic-egenscheviller" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:frederic.egenscheviller@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
